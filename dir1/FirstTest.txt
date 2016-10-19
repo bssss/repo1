@@ -1,4 +1,2 @@
 First repo test.
-Added later.
-Added later again.
-AND AGAIN.
+Rewritten.
