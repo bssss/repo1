@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-First line.
-Second line.
-Thrid line.
-Fourth line.
-=======
 Pierwsze zdanie.
 Drugie zdanie.
 Trzecie zdanie.
 Czwarte zdanie.
->>>>>>> 1e9dd6d916c1789077a5363cdd55f5f5abfe7a74
