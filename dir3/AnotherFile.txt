@@ -1,3 +1,3 @@
-First segment.
-Another segment.
-Last segment.
+Pierwszy segment.
+Drugi segment.
+Trzeci segment.
