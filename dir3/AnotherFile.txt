@@ -1,0 +1,3 @@
+Pierwszy segment.
+Drugi segment.
+Trzeci segment.
