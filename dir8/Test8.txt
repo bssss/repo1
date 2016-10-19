@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 TEXT TO CHANGE
+=======
+POLISH
+>>>>>>> 3a08d8dd0e1323da2a2520a4f47ae5c1e0c76022
